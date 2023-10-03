@@ -1,11 +1,3 @@
-UDEMY Laravel Eğitimi:
-https://www.udemy.com/course/php-laravel-egitimi/?couponCode=LARAVEL092023
-
-UDEMY Laravel İle Admin Paneli Geliştirme Eğitimi: https://www.udemy.com/course/laravel-ile-admin-paneli-gelistirme/?couponCode=ADMIN092023
-
-UDEMY PHP İle Nesneye Yönelik Programlama
-https://www.udemy.com/course/php-ile-nesneye-yonelik-programlama/?referralCode=3F819739F4AE5A19E8A0
-
 ✅ Laravel'de Excel İle İçe Aktarma (Import) (https://youtu.be/89N_owOIGpE)
 
 ✅ Laravel'de Excel İle Dışa Aktarma (Export) (https://youtu.be/smVXWd2xh8k)
